@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloorTrace", "FloorTrace\FloorTrace.csproj", "{AADE05C1-9DDF-429C-BA92-5A90BD18F210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AADE05C1-9DDF-429C-BA92-5A90BD18F210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AADE05C1-9DDF-429C-BA92-5A90BD18F210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AADE05C1-9DDF-429C-BA92-5A90BD18F210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AADE05C1-9DDF-429C-BA92-5A90BD18F210}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B3485CB-82B7-40DD-828F-2DC16BA4394F}
+	EndGlobalSection
+EndGlobal
